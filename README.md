@@ -1,3 +1,4 @@
 # SWproject1
-# YOLOv8를 사용한 이미지 분류
+# flutter 배우기
+# 노마드 코더
 # moona
